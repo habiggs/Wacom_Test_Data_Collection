@@ -1,0 +1,32 @@
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\bin\Debug\Tablet Interface Test.exe.config
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\bin\Debug\Tablet Interface Test.exe
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\bin\Debug\Tablet Interface Test.pdb
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.AssemblyReference.cache
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.CoreCompileInputs.cache
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\obj\Debug\Tablet Interface Test.exe
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\obj\Debug\Tablet Interface Test.pdb
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\bin\Debug\WintabDN.dll
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\bin\Debug\WintabDN.pdb
+D:\Documents\LOC Work\Tablet Interface Test\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.CopyComplete
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\bin\Debug\Tablet Interface Test.exe.config
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\bin\Debug\Tablet Interface Test.exe
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\bin\Debug\Tablet Interface Test.pdb
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\bin\Debug\WintabDN.dll
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\bin\Debug\WintabDN.pdb
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.AssemblyReference.cache
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.CoreCompileInputs.cache
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.CopyComplete
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\obj\Debug\Tablet Interface Test.exe
+C:\Users\irene\Desktop\Tablet Interface Test 6 23\Tablet Interface Test\obj\Debug\Tablet Interface Test.pdb
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\bin\Debug\Tablet Interface Test.exe.config
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\bin\Debug\Tablet Interface Test.exe
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\bin\Debug\Tablet Interface Test.pdb
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\bin\Debug\WintabDN.dll
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\bin\Debug\WintabDN.pdb
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.AssemblyReference.cache
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.CoreCompileInputs.cache
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\obj\Debug\Tablet Interface Test.csproj.CopyComplete
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\obj\Debug\Tablet Interface Test.exe
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\obj\Debug\Tablet Interface Test.pdb
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\bin\Debug\org.matheval.dll
+D:\Documents\LOC Work\Tablet Interface Test 6 27\Tablet Interface Test\bin\Debug\WacomMTDN.dll

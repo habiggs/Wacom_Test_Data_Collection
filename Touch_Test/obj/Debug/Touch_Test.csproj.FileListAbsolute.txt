@@ -1,0 +1,9 @@
+D:\Documents\LOC Work\Touch_Test\bin\Debug\Touch_Test.exe.config
+D:\Documents\LOC Work\Touch_Test\bin\Debug\Touch_Test.exe
+D:\Documents\LOC Work\Touch_Test\bin\Debug\Touch_Test.pdb
+D:\Documents\LOC Work\Touch_Test\bin\Debug\WacomMTDN.dll
+D:\Documents\LOC Work\Touch_Test\obj\Debug\Touch_Test.csproj.AssemblyReference.cache
+D:\Documents\LOC Work\Touch_Test\obj\Debug\Touch_Test.csproj.CoreCompileInputs.cache
+D:\Documents\LOC Work\Touch_Test\obj\Debug\Touch_Test.csproj.CopyComplete
+D:\Documents\LOC Work\Touch_Test\obj\Debug\Touch_Test.exe
+D:\Documents\LOC Work\Touch_Test\obj\Debug\Touch_Test.pdb
